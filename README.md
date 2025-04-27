@@ -34,12 +34,9 @@ I am continuously expanding this repository with more models and features. Upcom
 
 **Contributions:**
 
-(Optional: If you're open to contributions)
-
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
 **Contact:**
 
-(Optional: Your contact information, e.g., LinkedIn)
-
+Linkedin - https://www.linkedin.com/in/sarthakjain1620/
 Feel free to reach out if you have any questions.
